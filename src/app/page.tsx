@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -158,8 +158,7 @@ export default function Home() {
               company: "TechVentures Inc",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Sarah Johnson",
-              content: "Grand Luxe Hotel exceeded all expectations. The attention to detail, exceptional service, and luxurious amenities made our stay absolutely unforgettable."
+              imageAlt: "Portrait of Sarah Johnson"
             },
             {
               id: "2",
@@ -168,8 +167,7 @@ export default function Home() {
               company: "Capital Growth Partners",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/12885861/pexels-photo-12885861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Michael Chen",
-              content: "From the moment we arrived, the staff went above and beyond. The concierge service was impeccable, and the spa facilities were world-class."
+              imageAlt: "Portrait of Michael Chen"
             },
             {
               id: "3",
@@ -178,8 +176,7 @@ export default function Home() {
               company: "Global Brands Ltd",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Emma Rodriguez",
-              content: "The perfect blend of elegance and comfort. Every detail was thoughtfully considered, creating an atmosphere of pure luxury and sophistication."
+              imageAlt: "Portrait of Emma Rodriguez"
             },
             {
               id: "4",
@@ -188,8 +185,7 @@ export default function Home() {
               company: "Strategic Solutions",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/8000609/pexels-photo-8000609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of James Wilson",
-              content: "Outstanding dining experiences and remarkable service quality. The hotel truly sets the standard for luxury hospitality in the industry."
+              imageAlt: "Portrait of James Wilson"
             },
             {
               id: "5",
@@ -198,8 +194,7 @@ export default function Home() {
               company: "Excellence Corp",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/8558897/pexels-photo-8558897.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Sophia Martinez",
-              content: "A truly memorable experience. The hotel's commitment to excellence is evident in every interaction and every beautifully appointed space."
+              imageAlt: "Portrait of Sophia Martinez"
             },
             {
               id: "6",
@@ -208,8 +203,7 @@ export default function Home() {
               company: "Innovation Studios",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/4427630/pexels-photo-4427630.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of David Thompson",
-              content: "Exceptional in every way. The seamless blend of modern luxury with timeless elegance creates an experience that's second to none."
+              imageAlt: "Portrait of David Thompson"
             }
           ]}
           layout="default"
