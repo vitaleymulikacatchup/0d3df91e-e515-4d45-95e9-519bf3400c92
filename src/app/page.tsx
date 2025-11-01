@@ -52,7 +52,7 @@ export default function Home() {
               href: "rooms"
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32m5rRdd38TAyU0DZCqvrl288SF/uploaded-1761910848225-y4j20o2c.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32m5rRdd38TAyU0DZCqvrl288SF/uploaded-1761834046623-pb3vahrj.jpg"
           imageAlt="Elegant hotel lobby with luxurious interior design"
           imagePosition="right"
         />
